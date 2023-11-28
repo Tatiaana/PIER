@@ -3,7 +3,7 @@
 
 ## This is my portfolio
 
-## Education
+# Education
 
 2014-2018 Bachelor of Science
 
