@@ -11,4 +11,4 @@
 
 from 2021 PhD Student
 
-![Book logo](/docs/assets/logo.png= 50x50)
+![Book logo](/docs/assets/logo.png)
