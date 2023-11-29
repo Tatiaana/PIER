@@ -10,5 +10,3 @@
 2018-2020 Master of Science
 
 from 2021 PhD Student
-
-![Book logo](/docs/assets/basis.png)
